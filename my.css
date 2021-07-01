@@ -8,7 +8,7 @@
         width: 100%;
         height:100vh ;
         position: fixed;
-        background: url(back3.jpg);
+        background: url(back6.jpg);
         background-size: cover;
         z-index: -100;
     }
@@ -23,6 +23,7 @@
         font-size: 280px;
         padding-right: 25%;
         text-align: right;
+       
     }
     .det{
         font-size: 16px;
